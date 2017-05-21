@@ -4,5 +4,5 @@ Githubテストです。
 ---
 
 * addして
-* commitして
+* comitして
 * pushする
