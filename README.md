@@ -3,6 +3,9 @@ Githubテストです。
 
 ---
 
-* addして
-* comitして
-* pushする
+ addして
+ comitして
+ pushする
+
+---
+pull request
